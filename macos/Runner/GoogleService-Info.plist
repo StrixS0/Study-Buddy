@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCN-ZMoUx7ZSU4I6HE6GYErvA9GbaubejE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>83318175928</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.piaMoviles.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>piamoviles-e42b6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>piamoviles-e42b6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:83318175928:ios:c3a58c5cc8d207bf921c4d</string>
+</dict>
+</plist>

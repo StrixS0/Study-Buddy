@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83318175928",
+    "project_id": "piamoviles-e42b6",
+    "storage_bucket": "piamoviles-e42b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83318175928:android:fe271a90dbb51865921c4d",
+        "android_client_info": {
+          "package_name": "com.example.pia_moviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAl3FIjKU157_DhzBkoliY3i8A82Xmq5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83318175928:android:04673b7108706bcb921c4d",
+        "android_client_info": {
+          "package_name": "com.example.piamoviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAl3FIjKU157_DhzBkoliY3i8A82Xmq5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
